@@ -43,7 +43,7 @@ An intelligent product ranking system for skincare products — blending rule-ba
 
 1. **Clone the repo**
    ```bash
-   git clone https://github.com/yourusername/skincare-recommender.git
+   git clone https://github.com/SukandVM/SkinSeoul_Work.git
    cd skincare-recommender
    ```
 
@@ -82,12 +82,10 @@ An intelligent product ranking system for skincare products — blending rule-ba
 
 ---
 
-## 🧠 AI Logic (Optional)
+## 🧠 AI Logic 
 
-You can optionally use:
-- 🤖 `OpenAI GPT` (via API)
 - 🔧 `SmolAgents` (via HuggingFace)
-- 📜 Or plain Python rule logic (recommended for simplicity)
+- 📜 And plain Python rule logic (recommended for simplicity)
 
 Example prompt:  
 > “Show top 5 Tier A products by sales”
@@ -125,5 +123,5 @@ Feel free to fork and adapt for fashion, electronics, or grocery recommendations
 
 ## 💬 Contact
 
-Created by [@yourname](https://github.com/yourusername).  
+Created by [@SukandVM](https://github.com/SukandVM).  
 Got feedback? Open an issue or reach out!

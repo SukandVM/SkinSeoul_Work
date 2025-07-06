@@ -18,15 +18,14 @@ An intelligent product ranking system for skincare products — blending rule-ba
 
 ## 🎥 Frontend Preview
 
-<img src="docs/screenshot-light.png" alt="light mode" width="500"/>
-<img src="docs/screenshot-dark.png" alt="dark mode" width="500"/>
+<img src="docs/frontend1.png" alt="dark mode" width="500"/>
 
 ---
 
 ## 📂 Project Structure
 
 ```
-├── agent_runner.py         # (Optional) AI code generation logic
+├── agent_runner.py         # AI code generation logic
 ├── dat.py                  # Flask app: routes, ranking, API
 ├── templates/
 │   └── index.html          # UI: leaderboard, AI input, dark mode
